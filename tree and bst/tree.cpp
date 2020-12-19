@@ -124,7 +124,50 @@ void ver(node *root)
         cout<<endl;
     }
 }
+void leftView(node *root){
+    //thi is just modified version of bfs by level
+       int flag=0; // this will check if we get 2 null
+    queue <node *> q;
+    vector <char> ans;
+    q.push(root);
+    if(root!=nullptr)
+        ans.push_back(root->data);
+    q.push(NULL);
+    while(!q.empty() && flag<2){
+        node *temp = q.front();
+        q.pop();
+        if (temp!=NULL){
+            //cout<<temp->data<<" ";
+            if (flag>0)
+             ans.push_back(temp->data);
+             flag=0;
+            if (temp->left)
+                q.push(temp->left);
+            if (temp->right)
+                q.push(temp->right);
+        }
+        else if (temp==NULL){
+            flag++;
+            //cout<<endl;
+            q.push(NULL);
+        }
+    }
+    for(auto i=ans.begin();i!=ans.end();i++)
+        cout<<*i<<" ";
+}
 
+void bottomView(node *root){
+    // ver + hd
+    queue <node *> q;
+    map <int, vector<char>> m;
+    int hd=0;
+    getVerticalOrder(root, hd, m);
+    map<int, vector<char>> :: iterator it;
+    for(it=m.begin();it!=m.end();it++){
+        cout<<it->second[it->second.size()-1]<<" ";
+    }
+    cout<<endl;
+}
 // main part
 int main()
 {
@@ -146,6 +189,10 @@ int main()
 	ver(root);
 	cout<<"\n\n---- top view ----\n\n";
 	topview(root);
+	cout<<"\n\n----left view ----\n\n";
+	leftView(root);
+    cout<<"\n\n----bottom view ----\n\n";
+	bottomView(root);
 	return 0;
 }
 
