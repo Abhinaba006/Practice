@@ -28,7 +28,7 @@ bool Smaller(int a, int b)
     return a<b;
 }
 
-int Average(int a, int b);
+int Average(int a, int b)
 {
     return (a+b)/2;
 }
@@ -71,16 +71,7 @@ protected:
     //using zero location
     int left(int i)
         return 2*i+1;
-
-    int right(int i)
-        return 2*(i+1);
-
-    int parent(int i)
-    {
-        if (i<=0)
-            return -1;
-        return (i-1)/2;
-    }
+        
 
     // heap array
     int *A;
