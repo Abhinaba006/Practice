@@ -4,7 +4,7 @@ using namespace std;
 Heap Capacity
 */
 #define MAX_HEAP_SIZE (128)
-#define ARRAY_SIZE(a) sizeof(a)/sizeof(a[0)
+#define ARRAY_SIZE(a) sizeof(a)/sizeof(a[0])
 
 // utility functions
 
@@ -194,9 +194,87 @@ public:
 };
 
 // getMedian
-int getMedian(){
+int getMedian(int e, int &m, Heap &l, Heap &r){
+    int sig = Signum(l.GetCount(), r.GetCount());
 
+    switch (sig)
+    {
+    case 1:
+        /* left is greater so we will check where e fits.
+        if it fits in left then r.insert(l.extracttop())
+        else r.insert(key)*/
+        if(e<m){
+            r.Insert(l.ExtractTop());
+            l.Insert(e);
+        }
+        else{
+            r.Insert(e);
+        }
+        m = Average(l.GetTop(), r.GetTop());
+        break;
+    case 0:
+        if( e < m ) // current element fits in left (max) heap 
+        { 
+            l.Insert(e); 
+            m = l.GetTop(); 
+        } 
+        else
+        { 
+            // current element fits in right (min) heap 
+            r.Insert(e); 
+            m = r.GetTop(); 
+        } 
+        break;
+
+    
+    case -1: // There are more elements in right (min) heap 
+  
+        if( e < m ) // current element fits in left (max) heap 
+        { 
+            l.Insert(e); 
+        } 
+        else
+        { 
+            // Remove top element from right heap and 
+            // insert into left heap 
+            l.Insert(r.ExtractTop()); 
+  
+            // current element fits in right (min) heap 
+            r.Insert(e); 
+        } 
+  
+        // Both heaps are balanced 
+        m = Average(l.GetTop(), r.GetTop()); 
+  
+        break; 
+    } 
+    return m;
 }
-//printMedian
-
-//main
+void printMedian(int A[], int size) 
+{ 
+    int m = 0; // effective median 
+    Heap *left  = new maxHeap(); 
+    Heap *right = new minHeap(); 
+  
+    for(int i = 0; i < size; i++) 
+    { 
+        m = getMedian(A[i], m, *left, *right); 
+  
+        cout << m << endl; 
+    } 
+  
+    // C++ more flexible, ensure no leaks 
+    delete left; 
+    delete right; 
+} 
+// Driver code 
+int main() 
+{ 
+    int A[] = {5, 15, 1, 3, 2, 8, 7, 9, 10, 6, 11, 4}; 
+    int size = ARRAY_SIZE(A); 
+  
+    // In lieu of A, we can also use data read from a stream 
+    printMedian(A, size); 
+  
+    return 0; 
+} 
