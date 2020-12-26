@@ -139,25 +139,25 @@ protected:
 };
 // editing heap to create max heap
 
-class minHeap : public Heap{
+class maxHeap : public Heap{
 private:
     
 public:
-    minHeap() : Heap(new int[MAX_HEAP_SIZE], &Greater){}
-    ~minHeap() {}
+    maxHeap() : Heap(new int[MAX_HEAP_SIZE], &Greater){}
+    ~maxHeap() {}
 
     int GetTop(){
         return top();
     }
 
     // extract top
-    int extractTop(){
+    int ExtractTop(){
         return deleteTop();
     }
 
     //get count
 
-    int getCount(){
+    int GetCount(){
         return count();
     }
 
@@ -180,11 +180,11 @@ public:
         return top();
     }
     // extract top
-    int extractTop(){
+    int ExtractTop(){
         return deleteTop();
     }
     //get count
-    int getCount(){
+    int GetCount(){
         return count();
     }
     //insert
@@ -253,7 +253,7 @@ int getMedian(int e, int &m, Heap &l, Heap &r){
 void printMedian(int A[], int size) 
 { 
     int m = 0; // effective median 
-    Heap *left  = new maxHeap(); 
+    Heap *left  = new maxHeap; 
     Heap *right = new minHeap(); 
   
     for(int i = 0; i < size; i++) 
