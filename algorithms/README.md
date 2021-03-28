@@ -1,0 +1,11 @@
+- [ ] [Strings](/strings) 
+- [ ] Sorting List
+- [ ] Search
+- [ ] Graph Theory
+- [ ] Greedy
+- [ ] [Dynamic Programming](algorithms/dp/)
+- [ ] Constructive Algorithm
+- [ ] Bit Manupulation
+- [ ] Recursion
+- [ ] Game Theory
+- [ ] NP
