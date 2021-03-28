@@ -3,7 +3,7 @@
 - [ ] Search
 - [ ] Graph Theory
 - [ ] Greedy
-- [ ] [Dynamic Programming](/blob/master/algorithms/dp/)
+- [ ] [Dynamic Programming](algorithms/dp/)
 - [ ] Constructive Algorithm
 - [ ] Bit Manupulation
 - [ ] Recursion
