@@ -1,0 +1,107 @@
+Profession,Field of work,Age Group,Do you practice any form of mindfulness or meditation?,Do you practice any physical exercises?,Do you have any ongoing physical or mental health issues?,How long have you been practicing mindfulness?,How long are your meditation sessions per day?,How regularly do you meditate?,How would you rate your regular stress level?,Do you face trouble sleeping?,Have you ever tried to manage your sleep issues by meditation?,"Do you find yourself anxious about any situation (examinations, public speaking, or such)?",Have you ever tried to manage your anxiety by meditation?,Have you ever considered mindfulness for spiritual or paranormal purposes?
+Student,Engineering,18-30,No,"Yes, sometimes","Maybe, it is undiagnosed",>1 year and <5 year,10-20 minutes,1-2 times a week,6,Rarely,No,"Yes, very much","Yes, did not find it effective",No
+Student,Engineering,18-30,No,"Yes, regularly",No,< 1 month,None,None,2,"Yes, regularly (2-3 days a week)","Yes, did not find it effective",No,"Yes, did not find it effective",Yes
+Student,Engineering,18-30,"Used to, but stopped","No, but I used to","Maybe, it is undiagnosed",None,None,None,4,Never,No,No,No,No
+Student,Engineering,18-30,No,"Yes, sometimes","Yes, I have a diagnosed health problem and I am on medication for it",None,None,None,8,Rarely,No,"Sometimes, for big events and such",No,No
+Student,Engineering,18-30,No,"Yes, regularly",No,None,None,None,8,"Yes, very frequently (>3 days a week)",No,"Yes, very much",No,No
+Student,Engineering,18-30,No,"Yes, sometimes",No,None,None,None,8,Never,No,"Yes, but manageable on its own",No,No
+Working,Engineering,18-30,"Used to, but stopped","No, but I used to","Maybe, it is undiagnosed",None,None,None,8,"Yes, regularly (2-3 days a week)","Yes, did not find it effective","Yes, but manageable on its own","Yes, I find it effective",No
+Working,Management - Senior level,18-30,Yes,"Yes, regularly","Maybe, it is undiagnosed",None,None,None,9,Rarely,No,"Yes, but manageable on its own","Yes, did not find it effective",No
+Student,Engineering,18-30,Yes,"Yes, sometimes",No,Around a year,5-10 minutes,1-2 times a week,7,Rarely,"Yes, I find it effective","Yes, but manageable on its own","Yes, I find it effective",No
+Student,Teaching,18-30,No,"No, but I used to","Maybe, it is undiagnosed",< 1 month,None,None,7,"Yes, very frequently (>3 days a week)",No,"Yes, but manageable on its own",No,No
+Working,Management - Junior level,18-30,Yes,"No, but I used to","Yes, I have a diagnosed health problem but medication is not applicable",Around a year,5-10 minutes,3-5 times a week,8,Rarely,"Yes, I find it effective",No,"Yes, I find it effective",No
+Student,Engineering,18-30,"Used to, but stopped","Yes, regularly",No,Few months,5-10 minutes,1-2 times a week,4,Never,No,"Yes, but manageable on its own",No,No
+Working,Research,18-30,No,"Yes, regularly","Yes, I have a diagnosed health problem and I am on medication for it",None,None,None,7,"Yes, very frequently (>3 days a week)","Yes, did not find it effective","Yes, but manageable on its own","Yes, did not find it effective",No
+Student,Engineering,18-30,Yes,"Yes, sometimes",No,>1 year and <5 year,5-10 minutes,3-5 times a week,3,Never,No,"Sometimes, for big events and such","Yes, I find it effective",No
+Student,Engineering,18-30,No,"Yes, sometimes",No,< 1 month,5-10 minutes,None,8,"Yes, very frequently (>3 days a week)",No,"Sometimes, for big events and such",No,Yes
+Student,Engineering,18-30,"Used to, but stopped","Yes, sometimes",No,None,None,None,6,"Yes, regularly (2-3 days a week)",No,"Yes, but manageable on its own","Yes, did not find it effective",No
+Student,Engineering,18-30,"Used to, but stopped","Yes, sometimes",No,< 1 month,5-10 minutes,1-2 times a week,7,"Yes, regularly (2-3 days a week)",No,"Yes, very much","Yes, I find it effective",No
+Student,Engineering,18-30,Yes,"Yes, regularly","Yes, I have a diagnosed health problem and I am on medication for it",Around a year,20 minutes - 1 hours,Almost everyday,7,Rarely,"Yes, I find it effective","Sometimes, for big events and such","Yes, I find it effective",Yes
+Student,Engineering,18-30,Yes,"No, but I used to",No,Around a year,20 minutes - 1 hours,3-5 times a week,2,Never,"Yes, I find it effective","Sometimes, for big events and such","Yes, I find it effective",Yes
+Student,Engineering,18-30,Yes,"Yes, regularly",No,Around a year,None,None,4,Never,"Yes, I find it effective","Sometimes, for big events and such",No,Yes
+Student,Engineering,18-30,No,"Yes, sometimes",No,< 1 month,None,None,2,Rarely,No,No,No,No
+Student,Engineering,18-30,"Used to, but stopped","Yes, regularly","Yes, I have a diagnosed health problem but medication is not applicable",None,None,None,8,"Yes, very frequently (>3 days a week)","Yes, did not find it effective","Sometimes, for big events and such",No,No
+Working,Management - Senior level,50-65,No,"Yes, sometimes",No,None,None,None,4,Never,No,"Sometimes, for big events and such",No,No
+Student,Medicine,18-30,"Used to, but stopped","Yes, sometimes",No,Around a year,10-20 minutes,1-2 times a week,6,Rarely,"Yes, I find it effective","Yes, very much","Yes, I find it effective",No
+Student,Medicine,18-30,No,"Yes, sometimes","Yes, I have a diagnosed health problem and I am on medication for it",None,None,None,6,Rarely,No,"Yes, but manageable on its own",No,No
+Homemaker,Homemaking,30-50,Yes,"Yes, regularly",No,Around a year,20 minutes - 1 hours,Almost everyday,2,Rarely,"Yes, I find it effective","Yes, but manageable on its own","Yes, I find it effective",No
+Student,Engineering,18-30,No,"Yes, sometimes",No,None,None,None,8,Rarely,No,"Yes, very much",No,No
+Student,Medicine,18-30,No,"No, but I used to","Maybe, it is undiagnosed",None,None,None,7,Rarely,No,"Yes, very much",No,No
+Student,Engineering,18-30,No,"No, I never have","Yes, I have but I don't care.",> 5 years,None,None,10,"Yes, very frequently (>3 days a week)","Yes, did not find it effective","Yes, very much","Yes, did not find it effective",No
+Student,Engineering,18-30,Yes,"Yes, regularly",No,Around a year,> 1 hours,3-5 times a week,4,"Yes, regularly (2-3 days a week)","Yes, did not find it effective","Sometimes, for big events and such","Yes, I find it effective",No
+Student,Engineering,18-30,Yes,"Yes, regularly",No,Around a year,10-20 minutes,Almost everyday,5,Rarely,"Yes, I find it effective","Sometimes, for big events and such","Yes, I find it effective",No
+Medical practitioner,Medicine,30-50,"Used to, but stopped","Yes, regularly",No,> 5 years,None,None,10,"Yes, very frequently (>3 days a week)",No,No,No,No
+Working,Service,50-65,Yes,"Yes, sometimes",No,Few months,10-20 minutes,3-5 times a week,1,Rarely,No,"Sometimes, for big events and such",No,No
+Student,Medicine,18-30,No,"Yes, sometimes","Yes, I have a diagnosed health problem and I am on medication for it",None,None,None,5,Rarely,"Yes, I find it effective","Sometimes, for big events and such","Yes, I find it effective",No
+Student,Medicine,18-30,Yes,"No, but I used to","Maybe, it is undiagnosed",>1 year and <5 year,5-10 minutes,3-5 times a week,8,Never,"Yes, I find it effective","Yes, but manageable on its own","Yes, I find it effective",No
+Working,Medicine,18-30,No,"Yes, sometimes",No,Few months,None,None,6,Rarely,"Yes, I find it effective","Yes, but manageable on its own",No,No
+Student,Engineering,18-30,No,"Yes, sometimes",No,None,None,None,5,Never,No,"Yes, very much",No,No
+Student,Engineering,18-30,No,"Yes, regularly","Maybe, it is undiagnosed",None,None,None,9,Rarely,No,"Yes, very much",No,No
+Student,Engineering,18-30,"Used to, but stopped","Yes, regularly",No,Around a year,20 minutes - 1 hours,None,1,Never,No,"Sometimes, for big events and such",No,Yes
+Student,Engineering,18-30,"Used to, but stopped","Yes, sometimes","Maybe, it is undiagnosed",Around a year,5-10 minutes,1-2 times a week,5,Rarely,"Yes, did not find it effective","Sometimes, for big events and such","Yes, I find it effective",No
+Student,Engineering,18-30,Yes,"Yes, sometimes",No,Few months,10-20 minutes,1-2 times a week,8,Rarely,"Yes, I find it effective","Sometimes, for big events and such",No,No
+Student,Engineering,18-30,No,"Yes, sometimes",No,None,None,None,4,Rarely,No,No,No,No
+Student,Engineering,18-30,"Used to, but stopped","Yes, sometimes",No,Few months,None,None,8,Rarely,No,"Sometimes, for big events and such",No,No
+Student,Engineering,18-30,No,"No, but I used to","Maybe, it is undiagnosed",None,None,None,9,"Yes, regularly (2-3 days a week)",No,"Yes, but manageable on its own",No,No
+Student,Engineering,18-30,No,"No, I never have",No,None,None,None,3,"Yes, regularly (2-3 days a week)",No,"Yes, very much",No,Yes
+Student,Engineering,18-30,Yes,"Yes, sometimes",No,Around a year,10-20 minutes,3-5 times a week,5,"Yes, very frequently (>3 days a week)","Yes, I find it effective","Yes, very much","Yes, I find it effective",Yes
+Student,Engineering,18-30,Yes,"Yes, sometimes","Maybe, it is undiagnosed",Few months,5-10 minutes,3-5 times a week,7,Rarely,"Yes, I find it effective","Yes, but manageable on its own","Yes, I find it effective",No
+Student,Engineering,18-30,"Used to, but stopped","Yes, sometimes",No,Around a year,5-10 minutes,None,8,Rarely,No,"Sometimes, for big events and such",No,No
+Student,Engineering,18-30,Yes,"Yes, regularly",No,>1 year and <5 year,5-10 minutes,Almost everyday,6,Rarely,No,"Yes, but manageable on its own","Yes, I find it effective",No
+Student,Engineering,18-30,No,"No, but I used to","Maybe, it is undiagnosed",None,None,None,3,Never,No,"Yes, but manageable on its own",No,No
+Student,Engineering,18-30,Yes,"Yes, sometimes","Yes, I have a diagnosed health problem and I am on medication for it",Around a year,10-20 minutes,Almost everyday,4,Rarely,"Yes, I find it effective","Sometimes, for big events and such","Yes, I find it effective",Yes
+Student,Engineering,18-30,"Used to, but stopped","No, but I used to",No,None,None,None,7,Rarely,No,No,No,No
+Student,Engineering,18-30,"Used to, but stopped","Yes, sometimes",No,None,None,None,9,Rarely,"Yes, I find it effective","Yes, very much",No,No
+Student,Engineering,18-30,"Used to, but stopped","Yes, sometimes","Maybe, it is undiagnosed",Around a year,20 minutes - 1 hours,1-2 times a week,6,"Yes, very frequently (>3 days a week)",No,"Yes, but manageable on its own","Yes, I find it effective",No
+Student,Engineering,18-30,"Used to, but stopped","No, but I used to",No,>1 year and <5 year,5-10 minutes,Almost everyday,6,Rarely,"Yes, I find it effective","Sometimes, for big events and such","Yes, I find it effective",No
+Student,Engineering,18-30,No,"Yes, sometimes",No,None,None,None,7,Rarely,No,"Sometimes, for big events and such",No,No
+Student,Engineering,18-30,"Used to, but stopped","Yes, sometimes",No,None,None,None,8,Rarely,No,"Yes, but manageable on its own",No,Yes
+Student,Engineering,18-30,Yes,"Yes, sometimes",No,Few months,10-20 minutes,3-5 times a week,5,"Yes, regularly (2-3 days a week)","Yes, I find it effective","Yes, very much",No,No
+Student,Engineering,18-30,No,"No, but I used to","Yes, I have a diagnosed health problem but medication is not applicable",None,None,None,7,"Yes, very frequently (>3 days a week)","Yes, did not find it effective","Yes, but manageable on its own",No,No
+Student,Engineering,18-30,Yes,"Yes, sometimes","Yes, I have a diagnosed health problem but medication is not applicable",Around a year,5-10 minutes,3-5 times a week,8,"Yes, very frequently (>3 days a week)","Yes, I find it effective","Yes, very much","Yes, I find it effective",No
+Student,Engineering,18-30,No,"Yes, sometimes",No,None,None,None,8,"Yes, very frequently (>3 days a week)","Yes, did not find it effective","Yes, but manageable on its own",No,No
+Student,Engineering,18-30,"Used to, but stopped","No, but I used to","Yes, I have a diagnosed health problem and I am on medication for it",< 1 month,5-10 minutes,None,8,Rarely,No,"Yes, but manageable on its own",No,Yes
+Student,Engineering,18-30,"Used to, but stopped","No, but I used to",No,< 1 month,5-10 minutes,None,7,"Yes, regularly (2-3 days a week)",No,"Yes, but manageable on its own",No,No
+Student,Engineering,18-30,"Used to, but stopped","No, but I used to",No,>1 year and <5 year,20 minutes - 1 hours,3-5 times a week,5,Rarely,No,"Yes, very much",No,No
+Student,Engineering,18-30,No,"Yes, sometimes",No,< 1 month,5-10 minutes,None,1,Never,No,No,No,No
+Student,Medicine,18-30,"Used to, but stopped","No, but I used to",No,>1 year and <5 year,10-20 minutes,1-2 times a week,6,"Yes, regularly (2-3 days a week)","Yes, I find it effective","Yes, but manageable on its own","Yes, I find it effective",Yes
+Student,Engineering,18-30,No,"No, I never have",No,None,None,None,8,Rarely,No,"Sometimes, for big events and such",No,No
+Student,Engineering,18-30,Yes,"Yes, sometimes",No,None,None,None,7,"Yes, very frequently (>3 days a week)",No,"Yes, but manageable on its own","Yes, I find it effective",No
+Student,Engineering,18-30,No,"No, but I used to",No,< 1 month,5-10 minutes,None,4,Never,No,No,No,No
+Student,Engineering,18-30,Yes,"Yes, sometimes",No,Few months,10-20 minutes,1-2 times a week,8,Rarely,No,"Yes, but manageable on its own",No,No
+Student,Engineering,18-30,"Used to, but stopped","Yes, sometimes","Yes, I have a diagnosed health problem but medication is not applicable",Few months,None,None,8,Rarely,No,"Yes, but manageable on its own","Yes, did not find it effective",No
+Student,Engineering,18-30,Yes,"Yes, sometimes","Yes, I have a diagnosed health problem and I am on medication for it",Few months,5-10 minutes,1-2 times a week,9,"Yes, very frequently (>3 days a week)","Yes, I find it effective","Yes, very much","Yes, I find it effective",No
+Student,Engineering,18-30,"Used to, but stopped","Yes, sometimes","Maybe, it is undiagnosed",None,None,None,8,Rarely,"Yes, I find it effective","Yes, but manageable on its own","Yes, I find it effective",No
+Student,Engineering,18-30,"Used to, but stopped","Yes, sometimes","Yes, I have a diagnosed health problem but medication is not applicable",None,None,None,9,"Yes, very frequently (>3 days a week)",No,"Yes, very much",No,No
+Student,Engineering,18-30,"Used to, but stopped","Yes, sometimes",No,< 1 month,5-10 minutes,1-2 times a week,6,Rarely,No,"Yes, very much",No,No
+Working,Teaching,50-65,Yes,"Yes, regularly","Yes, I have a diagnosed health problem and I am on medication for it",>1 year and <5 year,20 minutes - 1 hours,Almost everyday,5,"Yes, very frequently (>3 days a week)","Yes, I find it effective","Sometimes, for big events and such","Yes, I find it effective",No
+Student,Engineering,18-30,"Used to, but stopped","Yes, regularly",No,< 1 month,5-10 minutes,1-2 times a week,3,Rarely,"Yes, did not find it effective",No,"Yes, did not find it effective",No
+Student,Engineering,18-30,Yes,"Yes, sometimes","Yes, I have a diagnosed health problem and I am on medication for it",Few months,20 minutes - 1 hours,1-2 times a week,7,"Yes, very frequently (>3 days a week)","Yes, I find it effective","Yes, very much","Yes, I find it effective",Yes
+Student,Engineering,18-30,Yes,"Yes, regularly",No,Around a year,10-20 minutes,3-5 times a week,4,"Yes, very frequently (>3 days a week)","Yes, did not find it effective","Sometimes, for big events and such","Yes, did not find it effective",Yes
+Student,Engineering,18-30,No,"Yes, sometimes",No,Few months,5-10 minutes,None,8,Rarely,No,No,No,No
+Student,Engineering,18-30,No,"Yes, sometimes","Maybe, it is undiagnosed",Few months,20 minutes - 1 hours,Almost everyday,6,Rarely,"Yes, did not find it effective","Sometimes, for big events and such","Yes, did not find it effective",No
+Student,Research,18-30,No,"Yes, sometimes",No,None,None,None,7,Rarely,No,"Yes, but manageable on its own",No,No
+Student,Engineering,18-30,Yes,"Yes, sometimes",No,Around a year,10-20 minutes,1-2 times a week,4,Never,No,"Sometimes, for big events and such",No,No
+Student,Engineering,18-30,Yes,"Yes, sometimes",No,>1 year and <5 year,5-10 minutes,3-5 times a week,6,Rarely,No,"Yes, but manageable on its own","Yes, I find it effective",No
+Student,Engineering,18-30,No,"No, I never have",No,None,None,None,8,Rarely,No,"Yes, but manageable on its own",No,No
+Working,Engineering,18-30,"Used to, but stopped","Yes, regularly",No,None,None,None,6,Rarely,"Yes, I find it effective","Sometimes, for big events and such",No,No
+Student,Engineering,18-30,"Used to, but stopped","Yes, sometimes",No,> 5 years,5-10 minutes,Almost everyday,9,Never,No,No,No,Yes
+Student,Engineering,18-30,No,"Yes, sometimes",No,None,5-10 minutes,1-2 times a week,4,Rarely,No,"Sometimes, for big events and such",No,No
+Student,Engineering,18-30,No,"Yes, sometimes","Maybe, it is undiagnosed",None,None,None,7,Rarely,No,"Yes, but manageable on its own",No,No
+Student,Engineering,18-30,No,"No, but I used to",No,None,None,None,4,Rarely,No,"Sometimes, for big events and such",No,No
+Student,Engineering,18-30,"Used to, but stopped","Yes, sometimes",No,None,20 minutes - 1 hours,1-2 times a week,5,Rarely,"Yes, I find it effective","Yes, but manageable on its own","Yes, I find it effective",Yes
+Student,Engineering,18-30,Yes,"Yes, sometimes","Yes, I have a diagnosed health problem and I am on medication for it",Few months,5-10 minutes,3-5 times a week,6,"Yes, very frequently (>3 days a week)","Yes, I find it effective","Sometimes, for big events and such","Yes, I find it effective",No
+Student,Fashion Designer ,18-30,No,"Yes, regularly","Maybe, it is undiagnosed",None,None,None,9,"Yes, regularly (2-3 days a week)",No,"Yes, but manageable on its own",No,No
+Student,Engineering,18-30,Yes,"Yes, regularly",No,> 5 years,5-10 minutes,Almost everyday,3,Never,"Yes, I find it effective","Yes, but manageable on its own","Yes, I find it effective",No
+Student,Engineering,18-30,Yes,"Yes, regularly","Maybe, it is undiagnosed",Around a year,5-10 minutes,1-2 times a week,8,"Yes, regularly (2-3 days a week)","Yes, I find it effective","Yes, but manageable on its own",No,No
+Student,Engineering,18-30,No,"Yes, regularly",No,>1 year and <5 year,5-10 minutes,None,5,Rarely,No,No,No,No
+Student,Engineering,18-30,No,"Yes, sometimes",No,None,None,None,6,Rarely,No,"Sometimes, for big events and such",No,Yes
+Student,Engineering,18-30,"Used to, but stopped","Yes, sometimes",No,Few months,5-10 minutes,1-2 times a week,9,"Yes, very frequently (>3 days a week)","Yes, did not find it effective","Yes, very much","Yes, did not find it effective",No
+Student,Engineering,18-30,No,"No, but I used to",No,None,None,None,5,"Yes, very frequently (>3 days a week)",No,"Yes, but manageable on its own",No,No
+Student,Engineering,18-30,No,"No, but I used to",No,None,None,None,4,"Yes, very frequently (>3 days a week)",No,"Sometimes, for big events and such",No,No
+Student,Engineering,18-30,No,"Yes, sometimes",No,None,None,None,5,Rarely,No,No,No,No
+Student,Engineering,18-30,No,"Yes, sometimes","Yes, I have a diagnosed health problem and I am on medication for it",Around a year,None,None,7,Rarely,"Yes, I find it effective","Yes, but manageable on its own","Yes, I find it effective",No
+Student,Engineering,18-30,Yes,"Yes, sometimes","Yes, I have a diagnosed health problem but medication is not applicable",Few months,10-20 minutes,Almost everyday,6,Rarely,"Yes, I find it effective","Yes, very much","Yes, I find it effective",No
+Student,Engineering,18-30,No,"Yes, sometimes","Maybe, it is undiagnosed",None,None,None,10,Never,No,"Yes, very much","Yes, did not find it effective",No
+Student,Research,30-50,No,"Yes, sometimes",No,< 1 month,5-10 minutes,None,3,Rarely,No,No,No,Yes
+Student,Medicine,18-30,No,"Yes, regularly","Maybe, it is undiagnosed",< 1 month,5-10 minutes,1-2 times a week,6,"Yes, regularly (2-3 days a week)","Yes, did not find it effective","Yes, very much","Yes, I find it effective",No
